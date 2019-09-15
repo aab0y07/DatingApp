@@ -1,7 +1,5 @@
 .vscode
 bin
 obj
-.vscode
-bin 
-obj
 *.db
+appsettings.json

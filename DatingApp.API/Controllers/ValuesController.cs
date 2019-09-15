@@ -21,7 +21,7 @@ namespace DatingApp.API.Controllers
             _context = context;
         }
         // GET api/values
-        [HttpGet]
+        
         /* public IActionResult GetValues() // IActionResult allows to return http responses to clients
         {
             var values = _context.Values.ToList();
@@ -29,6 +29,8 @@ namespace DatingApp.API.Controllers
         }*/
         
         // Async version of the method above
+        [AllowAnonymous]
+        [HttpGet]
         public async Task<IActionResult> GetValues() // IActionResult allows to return http responses to clients
         {
             var values = await _context.Values.ToListAsync();
@@ -36,7 +38,7 @@ namespace DatingApp.API.Controllers
         }
 
 
-        [AllowAnonymous ]
+        [AllowAnonymous]
         [HttpGet("{id}")]
         /* public IActionResult GetValue(int id) // the difference betweeen this and previous one is that, this method returns specific value, not list of values
         {
@@ -44,7 +46,7 @@ namespace DatingApp.API.Controllers
             return Ok(value); // the result can be checked via postman 
         }*/
 
-         public async Task<IActionResult> GetValue(int id) // the difference betweeen this and previous one is that, this method returns specific value, not list of values
+        public async Task<IActionResult> GetValue(int id) // the difference betweeen this and previous one is that, this method returns specific value, not list of values
         {
             var value = await _context.Values.FirstOrDefaultAsync(x => x.Id ==id);
             return Ok(value); // the result can be checked via postman 
