@@ -13,7 +13,7 @@
       "Country": "Northern Mariana Islands",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women2.jpg",
+          "url": "https://randomuser.me/api/portraits/women/2.jpg",
           "isMain": true,
           "description": "Ex tempor aliqua mollit sint deserunt laborum."
         }
@@ -33,7 +33,7 @@
       "Country": "Greenland",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women84.jpg",
+          "url": "https://randomuser.me/api/portraits/women/84.jpg",
           "isMain": true,
           "description": "Dolor ullamco incididunt ipsum Lorem aliqua sit id incididunt adipisicing incididunt nisi exercitation."
         }
@@ -53,7 +53,7 @@
       "Country": "Palau",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women87.jpg",
+          "url": "https://randomuser.me/api/portraits/women/87.jpg",
           "isMain": true,
           "description": "Esse laborum elit nisi tempor ad dolor irure officia ipsum ad excepteur."
         }
@@ -73,7 +73,7 @@
       "Country": "Virgin Islands (British)",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women94.jpg",
+          "url": "https://randomuser.me/api/portraits/women/94.jpg",
           "isMain": true,
           "description": "Eiusmod elit duis adipisicing dolore magna quis fugiat consectetur proident."
         }
@@ -93,7 +93,7 @@
       "Country": "Belize",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women69.jpg",
+          "url": "https://randomuser.me/api/portraits/women/69.jpg",
           "isMain": true,
           "description": "Culpa quis nisi dolor labore labore ea sint sint aute et esse."
         }
@@ -113,7 +113,7 @@
           "Country": "Russian Federation",
           "Photos": [
             {
-              "url": "https://randomuser.me/api/portraits/men79.jpg",
+              "url": "https://randomuser.me/api/portraits/men/79.jpg",
               "isMain": true,
               "description": "Ullamco laborum cupidatat duis magna occaecat est est."
             }
@@ -133,7 +133,7 @@
           "Country": "Dominican Republic",
           "Photos": [
             {
-              "url": "https://randomuser.me/api/portraits/men90.jpg",
+              "url": "https://randomuser.me/api/portraits/men/90.jpg",
               "isMain": true,
               "description": "Fugiat cupidatat mollit fugiat magna cupidatat et adipisicing sit commodo."
             }
@@ -153,7 +153,7 @@
           "Country": "Benin",
           "Photos": [
             {
-              "url": "https://randomuser.me/api/portraits/men71.jpg",
+              "url": "https://randomuser.me/api/portraits/men/71.jpg",
               "isMain": true,
               "description": "Amet commodo aliquip veniam consequat aute nulla pariatur aliqua enim deserunt velit."
             }
@@ -173,7 +173,7 @@
           "Country": "Sao Tome and Principe",
           "Photos": [
             {
-              "url": "https://randomuser.me/api/portraits/men84.jpg",
+              "url": "https://randomuser.me/api/portraits/men/84.jpg",
               "isMain": true,
               "description": "Officia proident laboris exercitation voluptate dolor magna esse voluptate magna duis fugiat duis laborum."
             }
@@ -193,7 +193,7 @@
           "Country": "Indonesia",
           "Photos": [
             {
-              "url": "https://randomuser.me/api/portraits/men98.jpg",
+              "url": "https://randomuser.me/api/portraits/men/98.jpg",
               "isMain": true,
               "description": "Non sunt officia adipisicing culpa esse duis cillum anim veniam nisi."
             }
